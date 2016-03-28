@@ -2,7 +2,9 @@
 
 Authors : MIQUEL Jean / RASTOUT Nathanael
 
-Contain : JAR File - Test.jar
+Team name : Snail
+
+Contain : JAR File - graph.jar
 
 Date : 27/03/2016
 
